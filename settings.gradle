@@ -1,0 +1,3 @@
+rootProject.name = 'consciousnesscraft'
+include 'vulkan-engine'
+
